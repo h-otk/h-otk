@@ -1,4 +1,4 @@
--  Hi, I’m @h-otk. I'm 23 years old.
+-  Hi, I’m @h-otk. I'm 24 years old.
 - I can "only" speak Japanese.(Because my English Level is JrHigh School Student or less and my English grammar is Very bloken.
 - If you are very kindness guy, please talk to me easy-simple English or Japanese.
 - However, I want to acquiring English. So, I am studying hardusing by the Duolingo app every day.
