@@ -25,17 +25,24 @@
 ### 👋 **Name(名前)：@h-otk**
 【日本語は補助文です】
 
-Hi, I’m from Shiga-pref, Japan. I'm 24 years old.
+🗾Hi, I’m from Shiga-pref, Japan. I'm 24 years old.
 
 こんにちは。私は日本国・滋賀県出身の満年齢24歳です。
 
-I can "only" speak Japanese.
-(Because my English Level is JrHigh School Student or less and my English grammar is Very bloken.
-If you are very kindness guy, please talk to me easy-simple English or Japanese.
-However, I want to acquiring English. So, I am studying hardusing by the Duolingo app every day.
+🇯🇵🗣️ I can "only" speak Japanese. 
 
-I like programming, especially like python.
-I’m doing programming Outside of work.(hobby)
+(Because my English Level is JrHigh School Student or less and my English grammar is Very bloken.)
+
+🙏 If you are very kindness guy, please talk to me easy-simple English or Japanese.
+
+📚🎯 However, I want to acquiring English. 
+
+　So, I am studying hardusing by the Duolingo app every day.
+
+🐍 I like programming, especially like python.
+
+💻 I’m doing programming Outside of work. (hobby)
+
 
 プログラミングが好き。趣味。
 
