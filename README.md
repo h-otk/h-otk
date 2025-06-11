@@ -108,7 +108,7 @@ Powerd by [skill-icons(GitHub)](https://github.com/tandpfun/skill-icons#readme)
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=h-otk&theme=transparent&no-frame=true&no-bg=true&margin-w=&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=h-otk&theme=transparent&no-frame=true&no-bg=true&margin-w=15&column=4" />
   <br />
 
   Powerd by [github-profile-trophy(GitHub)](https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#filter-by-titles)
