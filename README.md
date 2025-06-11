@@ -50,7 +50,7 @@ I’m doing programming Outside of work.(hobby)
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-otk&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
 
-powerd by [github-readme-streak-stats(gitHub)](https://github.com/DenverCoder1/)
+powerd by [github-readme-streak-stats(gitHub)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </div>
 
 <br />
