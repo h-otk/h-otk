@@ -16,35 +16,38 @@
 
 <table>
 <tr>
-<td width="200" align="center">
-<img src="https://placehold.jp/100x100.png" width="100" height="100" alt="user_img_icon_mock" />
+<td width="150" align="center">
+<!-↓ユーザーアイコン->
+  <img src="https://placehold.jp/100x100.png" width="100" height="100" alt="user_img_icon_mock" />
 <br><strong>No-image</strong>
 </td>
-<td width="700" align="left">
+<td width="800" align="left">
 
 ### 👋 **Name(名前)：@h-otk**
 【日本語は補助文です】
 
-🗾Hi, I’m from Shiga-pref, Japan. I'm 24 years old.
+🗾Hi, I’m from Shiga-pref, Japan. My actual age is 25 years old now.<br>
+こんにちは。私は日本国・滋賀県出身の満年齢25歳です。
 
-こんにちは。私は日本国・滋賀県出身の満年齢24歳です。
+🇯🇵🗣️ I can "only" speak Japanese. <br>
+(Because my English Level is JrHigh School Student or less and my English grammar is Very bloken.)<br>
+私は日本語(ja-JP)しか話すことができません。<br>
+(なぜなら, 私の英語レベルは中学校レベル以下であり文法もおかしいからです。)<br>
 
-🇯🇵🗣️ I can "only" speak Japanese. 
+🙏 If you are very kindness guy, please talk to me easy-simple English or Japanese.<br>
+もしあなたが優しい方であるならば私と簡単で単純な英語で話していただくか日本語で話してください。
 
-(Because my English Level is JrHigh School Student or less and my English grammar is Very bloken.)
+📚🎯 However, I want to acquiring English. <br>
+しかしながら, 私は英語を習得したいです。
 
-🙏 If you are very kindness guy, please talk to me easy-simple English or Japanese.
+　So, I am studying hardusing by the Duolingo app every day.<br>
+ それで,私は毎日Duolingoアプリでめっちゃ英語を勉強しています。
 
-📚🎯 However, I want to acquiring English. 
+🐍 I like programming, especially like python.Because, python's grammar is easy or less other program language.<br>
+私はプログラミングが好きで特にPythonが好きです。なぜなら,Pythonの文法はほかのプログラミング言語より簡単だからです。
 
-　So, I am studying hardusing by the Duolingo app every day.
-
-🐍 I like programming, especially like python.
-
-💻 I’m doing programming Outside of work. (hobby)
-
-
-プログラミングが好き。趣味。
+💻 I’m doing programming Outside of work. (hobby)<br>
+私は仕事外でプログラミングを行っています(趣味)
 
 </td>
 </tr>
@@ -116,6 +119,7 @@ Powerd by [skill-icons(GitHub)](https://github.com/tandpfun/skill-icons#readme)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=h-otk&theme=transparent&no-frame=true&no-bg=true&margin-w=15&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15" />
   <br />
 
   Powerd by [github-profile-trophy(GitHub)](https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#filter-by-titles)
